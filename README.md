@@ -13,4 +13,4 @@ simple microFrontend App for Training
 - npm i
 - npm start
 
-**enjoy 😎 :) **
+**enjoy 😎 :)**
